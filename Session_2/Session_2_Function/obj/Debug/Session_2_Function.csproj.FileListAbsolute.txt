@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\bin\Debug\Session_2_Function.exe.config
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\bin\Debug\Session_2_Function.exe
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\bin\Debug\Session_2_Function.pdb
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\obj\Debug\Session_2_Function.exe
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\obj\Debug\Session_2_Function.pdb
+C:\Users\Administrator\Desktop\Session_2\Session_2_Function\obj\Debug\Session_2_Function.csprojResolveAssemblyReference.cache
